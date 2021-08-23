@@ -1,0 +1,10 @@
+---
+name: hardening-ubuntu
+title: Hardening Ubuntu Inspec Profile
+maintainer: bookofzeus.com
+copyright: bookofzeus.com
+license: Apache-2.0
+summary: Test suite for hardening Ubuntu
+version: 1.0.0
+supports:
+    - os-family: linux
