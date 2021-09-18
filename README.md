@@ -7,7 +7,7 @@ This Compliance Profile requires [InSpec](https://github.com/chef/inspec) for ex
 
 ```
 $ git clone https://github.com/BookOfZeus/inspec-hardening.git
-$ inspec exec inspec-harden-ubuntu
+$ inspec exec inspec-hardening
 ```
 
 ## Special Thanks to:
